@@ -1,0 +1,33 @@
+
+/**********************************************
+* General
+***********************************************/
+
+body {
+    
+}
+
+.alert-primary p {
+    margin-top: 1rem;
+}
+
+/**********************************************
+* ACF Styles
+***********************************************/
+
+.screen-reader-text {
+    display: none;
+}
+
+.acf-file-uploader .button {
+    font-size: 13px;
+    color: #0071a1;
+    border: thin solid #0071a1;
+    background: #f3f5f6;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+.acf-file-uploader a.button:hover {
+    text-decoration: none;
+}
